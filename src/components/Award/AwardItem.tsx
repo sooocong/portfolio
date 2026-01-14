@@ -1,4 +1,6 @@
 import { AwardProps } from "@/types";
+import ReactMarkdown from "react-markdown";
+import remarkGfm from "remark-gfm";
 
 const AwardItem = ({ name, date, organizer, description }: AwardProps) => {
   return (
@@ -9,7 +11,21 @@ const AwardItem = ({ name, date, organizer, description }: AwardProps) => {
           <span>{date}</span>
         </div>
         <span>{organizer}</span>
-        <span className="whitespace-pre-wrap">{`${description}`}</span>
+        <ReactMarkdown
+          remarkPlugins={[remarkGfm]}
+          components={{
+            a: ({ node, ...props }) => (
+              <a
+                {...props}
+                target="_blank"
+                rel="noreferrer"
+                className="text-PRIMARY underline underline-offset-2 font-medium"
+              />
+            ),
+          }}
+        >
+          {description}
+        </ReactMarkdown>{" "}
       </div>
     </div>
   );
