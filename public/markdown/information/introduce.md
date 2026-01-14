@@ -1,7 +1,1 @@
-- Hoo-ooh-ooh-ooh
-- Hoo-ooh-ooh-ooh
-- Stay in the middle
-- Like you a little
-- Don't want no riddle
-- 말해줘 say it back, oh, say it ditto
-- 아침은 너무 멀어 so say it ditto
+- 서비스 기획부터 UI 설계, 프론트엔드 개발까지 직접 연결하는 기획 중심 프론트엔드 개발자 최수빈입니다.
