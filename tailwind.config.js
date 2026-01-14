@@ -14,16 +14,16 @@ module.exports = {
         GRAY: "#adb5bd",
         GRAY_HEAVY: "#868e96",
         GRAY_EXTRAHEAVY: "#495057",
-        BLACK: "#212529",
+        BLACK: "#222222",
         /**
          * @description selection(드래그 블록)에 사용되는 컬러입니다.
          */
-        PRIMARY_LIGHT: "#c3fae8",
+        PRIMARY_LIGHT: "#b0dcfe",
 
         /**
          * @description 자기소개의 이름 부분, code tag의 darkmode에 사용되는 컬러입니다.
          */
-        PRIMARY: "#12b886",
+        PRIMARY: "#93c9f9",
 
         /**
          * @description code tag, link hover icon에 사용되는 컬러입니다.

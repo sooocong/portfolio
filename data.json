@@ -22,7 +22,7 @@
     {
       "id": 1,
       "name": "IBK기업은행",
-      "position": "청년인턴",
+      "position": "청년인턴 32기",
       "period": ["2025 .01", "2025 .02"]
     }
   ],
@@ -31,16 +31,16 @@
     {
       "id": 0,
       "name": "QJ",
-      "description": "[Question & Job, Qj] 대학교 강의 추천 플랫폼",
+      "description": "[Question & Job, Qj] 관심 직무 기반 대학교 강의 추천 플랫폼\n\n🎓 다양한 직업 정보를 찾아볼 수 있어요.\n👷🏻 관심 직업과 유사한 대학 강의를 점수 별로 추천받을 수 있어요.",
       "repoUrl": "https://github.com/kau-qj/realfrontend",
       "isTeam": true,
       "period": ["2023. 08", "2024. 01"],
-      "stack": ["Dart", "Figma"]
+      "stack": ["Dart", "Flutter", "Figma"]
     },
     {
       "id": 1,
       "name": "수캐너",
-      "description": "우리만의 수하물 스캐너 플랫폼",
+      "description": "우리만의 수하물 스캐너 플랫폼\n\n✈️ 출국 전 기내/위탁 반입 금지 수하물을 확인할 수 있어요.",
       "isTeam": true,
       "period": ["2023. 11", "2023. 12"],
       "stack": ["Figma"]
@@ -48,7 +48,7 @@
     {
       "id": 2,
       "name": "공작소",
-      "description": "모두를 위한 팀빌딩 서비스",
+      "description": "모두를 위한 팀빌딩 서비스\n\n📋 아직 혼자라도 금방 팀원을 구할 수 있어요.\n🫵🏻 필요한 팀원을 모집하거나 나에게 맞는 팀에 지원할 수 있어요. \n📁 나만의 포트폴리오를 만들어 팀빌딩 확률을 높일 수 있어요.",
       "webUrl": "https://main--gongjakso.netlify.app/",
       "repoUrl": "https://github.com/Gongjakso/Gongjakso_web",
       "isTeam": true,
@@ -58,7 +58,7 @@
     {
       "id": 3,
       "name": "훗타운",
-      "description": "한진 아이디어 허브 공모전",
+      "description": "한진의 C2C 직구 플랫폼 「훗타운」 이용 활성화 방안\n\n📦 한 건으로 합배송 되어 많이 주문해도 합계 중량의 배송비만 부가돼요.\n🚚 고객 변심으로 창고보관 상품을 팔아요 기능으로 재판매 할 수 있어요.",
       "isTeam": true,
       "period": ["2024. 03", "2024. 05"],
       "stack": ["Figma"]
@@ -66,7 +66,7 @@
     {
       "id": 4,
       "name": "Aerochat",
-      "description": "기업용 LLM Chat 플랫폼",
+      "description": "기업용 Private LLM AI 챗봇 서비스\n\n💬 실시간 스트리밍 응답이 가능해요.\n🔒 보안 등급별 문서 검색이 가능해요.\n📱 직관적인 사용자 경험(UX)을 제공해요.",
       "repoUrl": "https://github.com/Fasoo-LLM-Chat-UI-UX",
       "isTeam": true,
       "period": ["2024. 08", "2024. 12"],
@@ -75,7 +75,7 @@
     {
       "id": 5,
       "name": "더위피해 9988",
-      "description": "고령자 온열 질환 예방 플랫폼",
+      "description": "고령자 온열 질환 예방 플랫폼 | 99세까지 88하게\n\n☀️ 보호자는 실시간으로 어르신 위치의 날씨 정보를 확인할 수 있어요.\n🏠 어르신은 현재 위치에서 가장 가까운 무더위 쉼터의 경로를 안내받을 수 있어요.",
       "repoUrl": "https://github.com/kauProjectX/dwph9988-client",
       "isTeam": true,
       "period": ["2024. 08", "2024. 12"],
@@ -84,20 +84,31 @@
     {
       "id": 6,
       "name": "하나올림",
-      "description": "군인을 위한 통합 금융 플랫폼\n누구나 마음을 전하고, 군인은 포인트로 응원받습니다.\n편지 한 줄이 주는 큰 힘, 하나은행이 진심을 ‘올림’으로 이어갑니다.",
+      "description": "군인을 위한 통합 금융 플랫폼\n\n💸 누구나 마음을 전하고, 군인은 포인트로 응원받습니다.\n💌 편지 한 줄이 주는 큰 힘, 하나은행이 진심을 ‘올림’으로 이어갑니다.",
+      "webUrl": "https://youtu.be/KPYlJSmF4r0?si=KCc2tUegVGfuQMulㄴ",
       "repoUrl": "https://github.com/internet-letter-keeper",
       "isTeam": true,
       "period": ["2025. 06", "2025. 07"],
-      "stack": ["TypeScript", "HTML/CSS", "JavaScript", "Figma"]
+      "stack": ["Next.js", "React", "TypeScript", "HTML/CSS", "JavaScript", "Figma"]
     },
     {
       "id": 7,
       "name": "따봉",
-      "description": "시니어가 자신의 시간과 재능을 나누는 세대 교류 봉사 플랫폼\n🏢 기관은 필요한 봉사자를 쉽고 빠르게 모집할 수 있습니다.\n👵 시니어는 봉사로 의미 있는 시간을 쌓고, 사회와 연결됩니다.",
+      "description": "시니어가 자신의 시간과 재능을 나누는 세대 교류 봉사 플랫폼\n\n🏢 기관은 필요한 봉사자를 쉽고 빠르게 모집할 수 있습니다.\n👵 시니어는 봉사로 의미 있는 시간을 쌓고, 사회와 연결됩니다.",
+      "webUrl": "https://youtu.be/EgidUzj85Co?si=NF5ZpjKx2xRg3GhW",
       "repoUrl": "https://github.com/OnggiDongi",
       "isTeam": true,
       "period": ["2025. 08", "2025. 09"],
-      "stack": ["TypeScript", "JavaScript", "Java", "Figma"]
+      "stack": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Java",
+        "Figma",
+        "Springboot",
+        "Next.js",
+        "Storybook"
+      ]
     }
   ],
 
@@ -194,18 +205,18 @@
       "name": "금상 | ICT 융합프로젝트 경진대회",
       "date": "2023.12.27",
       "organizer": "한국항공대학교 첨단분야 혁신융합대학사업단",
-      "description": "CNN 및 Neural Engine 기반 On-device 물체 인식 수하물 스캐너 앱 개발\n- Figma, iOS 활용\n- UI/UX 프로토타입 구현 및 프론트엔드 개발 담당"
+      "description": "CNN 및 Neural Engine 기반 On-device 물체 인식 수하물 스캐너 앱 개발"
     },
     {
       "id": 1,
       "name": "2등 | AI융합 산학프로젝트",
       "date": "2024.01.08",
       "organizer": "한국항공대학교 AI융합대학",
-      "description": "LLM을 활용한 학과·직무 추천 웹 서비스 개발\n- Figma, Flutter, Dart 활용\n- UI/UX 프로토타입 구현 및 프론트엔드 개발 담당"
+      "description": "LLM을 활용한 학과·직무 추천 웹 서비스 개발"
     },
     {
       "id": 2,
-      "name": "우수 콘텐츠 제작 | 삼성 드림클래스 기자단",
+      "name": "우수상 | 삼성 드림클래스 기자단",
       "date": "2024.02.27",
       "organizer": "삼성복지재단",
       "description": "삼성 드림클래스 기자단 활동을 통해 우수 콘텐츠 제작 성과로 선정"
@@ -215,14 +226,14 @@
       "name": "최우수상 | AI융합캡스톤디자인 산학 R&D 프로젝트",
       "date": "2024.12.19",
       "organizer": "한국항공대학교 AI융합대학",
-      "description": "기업용 LLM Chat 웹 서비스 개발\n- Figma, React, TypeScript 활용\n- UI/UX 프로토타입 구현 및 프론트엔드 개발 담당"
+      "description": "기업용 LLM Chat 웹 서비스 개발"
     },
     {
       "id": 4,
       "name": "금상 | 민관협력 지원 플랫폼 활용 디지털 사회혁신 서비스 개발 아이디어 공모전",
       "date": "2024.12.19",
       "organizer": "과학기술정보통신부",
-      "description": "고령자의 온열 질환 예방을 위한 실시간 건강 모니터링 앱 개발\n- Figma, Flutter, Dart 활용\n- UI/UX 프로토타입 구현 및 프론트엔드 개발 담당\n- 최종 성과공유회 대표 발표\n- 과학기술정보통신부 장관상 수상"
+      "description": "고령자의 온열 질환 예방을 위한 실시간 건강 모니터링 앱 개발\n과학기술정보통신부 장관상 수상"
     }
   ]
 }
