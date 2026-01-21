@@ -196,12 +196,6 @@
       "name": "SQLD",
       "date": "2025. 09. 19",
       "organizer": "한국데이터산업진흥원"
-    },
-    {
-      "id": 2,
-      "name": "ADsP",
-      "date": "2026. ??. ???",
-      "organizer": "한국데이터산업진흥원"
     }
   ],
 
@@ -210,13 +204,13 @@
       "id": 0,
       "name": "금상 | ICT 융합프로젝트 경진대회",
       "date": "한국항공대학교 첨단분야 혁신융합대학사업단 | 2023.12.27",
-      "description": "- CNN 및 Neural Engine 기반 On-device 물체 인식 수하물 스캐너 앱 개발"
+      "description": "- CNN 및 Neural Engine 기반 On-device 물체 인식 수하물 스캐너 앱"
     },
     {
       "id": 1,
       "name": "2등 | AI융합 산학프로젝트",
       "date": "한국항공대학교 AI융합대학 | 2024.01.08",
-      "description": "- LLM을 활용한 학과·직무 추천 웹 서비스 개발"
+      "description": "- LLM을 활용한 학과·직무 추천 웹 서비스"
     },
     {
       "id": 2,
@@ -228,13 +222,13 @@
       "id": 3,
       "name": "최우수상 | AI융합캡스톤디자인 산학 R&D 프로젝트",
       "date": "한국항공대학교 AI융합대학 | 2024.12.19",
-      "description": "- 기업용 LLM Chat 웹 서비스 개발"
+      "description": "- 기업용 LLM Chat 웹 서비스"
     },
     {
       "id": 4,
       "name": "금상 | 민관협력 지원 플랫폼 활용 디지털 사회혁신 서비스 개발 아이디어 공모전",
       "date": "과학기술정보통신부 | 2024.12.19",
-      "description": "- 고령자의 온열 질환 예방을 위한 실시간 건강 모니터링 앱 개발\n- 📎 [스케치 영상](https://youtu.be/S6HaCUusVTs?si=ii9Ghwe5Csist3rz)\n- 📎 [뉴스 기사](https://www.inews24.com/view/1796260)"
+      "description": "- 고령자의 온열 질환 예방을 위한 실시간 건강 모니터링 앱\n- 📎 [스케치 영상](https://youtu.be/S6HaCUusVTs?si=ii9Ghwe5Csist3rz)\n- 📎 [뉴스 기사](https://www.inews24.com/view/1796260)"
     }
   ]
 }

@@ -25,7 +25,7 @@ const Information = ({ information }: Pick<DataProps, "information">) => {
           <h1 className="leading-[1.15]">
             안녕하세요,
             <br />
-            프론트엔드 개발자 <span className="text-PRIMARY font-semibold">{information.name}</span>
+            프로덕트 디자이너 <span className="text-PRIMARY font-semibold">{information.name}</span>
             입니다.
           </h1>
 
