@@ -13,7 +13,7 @@ import Script from "next/script";
  */
 const DEFAULT_SEO = {
   title: "최수빈 | portfolio",
-  description: "안녕하세요, 프로덕트 디자이너 최수빈입니다.",
+  description: "안녕하세요, 프론트엔드 개발자 최수빈입니다.",
   canonical: "https://www.naver.com/",
   openGraph: {
     type: "website",
