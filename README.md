@@ -173,8 +173,7 @@ npm run dev
     // 단, 이메일은 isEmail을 true로 작성해주세요.
     "contact": [ 
       { "id": 0, "name": "Email", "href": "honggildong@gmail.com", "isEmail": true }, // href에 이메일을 적어주세요.
-      { "id": 1, "name": "Github", "href": "https://github.com/honggildong" }, // href에 깃허브 주소를 적어주세요.
-      { "id": 2, "name": "Blog", "href": "https://velog.io/@honggildong" } // href에 블로그 주소를 적어주세요.
+      { "id": 1, "name": "Github", "href": "https://github.com/honggildong" } // href에 깃허브 주소를 적어주세요.
     ]
   },
 

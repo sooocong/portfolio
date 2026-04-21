@@ -7,8 +7,7 @@
     "name": "",
     "contact": [
       { "id": 0, "name": "Email", "href": "", "isEmail": true },
-      { "id": 1, "name": "Github", "href": "" },
-      { "id": 2, "name": "Blog", "href": "" }
+      { "id": 1, "name": "Github", "href": "" }
     ]
   },
 
